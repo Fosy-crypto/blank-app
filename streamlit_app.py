@@ -4,7 +4,11 @@ color = st.color_picker("Pick A Color", "#00FFFF")
 st.write("The current color is", color)
 
 import streamlit as st
-
+your-repository/
+├── pages/
+│   ├── page_1.py
+│   └── page_2.py
+└── your_app.py
 
 if st.button("Home"):
     st.switch_page("your_app.py")
