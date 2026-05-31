@@ -5,7 +5,7 @@ st.write("The current color is", color)
 
 import streamlit as st
 your-repository/
-├── pages/
+    ├── pages/
 │   ├── page_1.py
 │   └── page_2.py
 └── your_app.py
