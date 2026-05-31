@@ -1,5 +1,11 @@
 import streamlit as st
 
+[theme]
+base="dark"
+primaryColor="forestGreen"
+
+[theme.sidebar]
+primaryColor="darkGoldrod"
 
 import streamlit as st
 
